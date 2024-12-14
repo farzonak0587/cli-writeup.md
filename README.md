@@ -30,9 +30,9 @@ We are now in Unit 2, which focuses on GitHub, Git, and the command line. So far
 
 Our teacher taught us the command line by talking through everything while we took notes. He gave a lot of examples to help us understand how each command worked. To make sure we really got it, he had us practice using websites like [JSCLI](https://hstatsep.github.io/jscli/) This website let us try out the commands on our own and gave us different exercises to help us get the hang of things. The more we practiced, the easier it got to understand how to use the command line.
 
-We practiced using the command line by creating and managing different folders. First, we used the `mkdir` command to create the folders, then we tried out other commands to interact with them. We used `cd` to change between directories, and `..` to go up one level to the parent directory. The ~ symbol helped us quickly go to the home directory. We used touch to create files inside the folders, and mv to move files around or rename them. If we wanted to delete files, we used rm, and to completely remove a folder and everything inside it, we used rm -rf. To check where we were, we used pwd to see our current directory, and ls to list what was in a folder and clear to wipe the screen clean. Practicing all these commands helped us get comfortable with managing files and folders and made us more confident using the command line.
+We practiced using the command line by creating and managing different folders. First, we used the `mkdir` command to create the folders, then we tried out other commands to interact with them. We used `cd` to change between directories, and `..` to go up one level to the parent directory. The `~` symbol helped us quickly go to the home directory. We used `touch` to create files inside the folders, and `mv` to move files around or rename them. If we wanted to delete files, we used `rm`, and to completely remove a folder and everything inside it, we used `rm -rf`. To check where we were, we used `pwd` to see our current directory, and ls to list what was in a folder and `clear` to wipe the screen clean. Practicing all these commands helped us get comfortable with managing files and folders and made us more confident using the command line.
 
-An examples we had to practice with on JSCLI: 
+Some examples we had to practice with on JSCLI: 
 
 
 ![image](https://github.com/user-attachments/assets/ef6f92f5-69fc-4b46-a805-f6f5a03200df)
@@ -42,5 +42,5 @@ and
 ![image](https://github.com/user-attachments/assets/3868140f-d784-403f-b5cf-ce82243bc2e4)
 ![image](https://github.com/user-attachments/assets/49fa0580-9817-41bb-9b92-ca3af71df4ae)
 
-
+### Challenge 1
 
