@@ -66,4 +66,16 @@ The quiz question was: "What does cd .. mean?"
 
 And the options were:
 
+```HTML
+* Conceptual debugging
+* Go to the parent directory
+* Go to the child directory
+* Conditional database
+```
+I picked ``` "Go to the child directory" ``` because I didn't see the `..`, thinking it was just a normal cd command. But of course, the correct answer was ``` "Go to the parent directory." ```
+
+It was a simple mistake, but it taught me to slow down and carefully read through the details, especially when symbols like `..` are involved. After realizing my mistake, I became more cautious with commands that included special symbols and made sure I understood their full meaning.
+
+
+
 
