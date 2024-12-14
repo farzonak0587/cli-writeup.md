@@ -59,3 +59,11 @@ mv oldname.txt newname.txt
 
 One important distinction I learned was that when moving a file or folder, the destination (the folder or directory you're moving it into) has to already exist. On the other hand, when renaming a file, you don’t need to worry about whether the new name already exists — it just changes the file’s name in the same location. Once I understood this, it clicked! The mv command works for both tasks, but the context (whether you’re giving it a new path or a new name) determines whether it's moving or renaming. It made a lot more sense, and I felt much more comfortable using the command line after practicing this a few times. It really helped me understand the power of the mv command and how to use it efficiently in different situations.
 
+### Challenge 2 
+A challenge I faced while learning the command line happened during a quiz question about the command `cd ...` I knew what the command did, it moves you to the parent directory, but when I took the quiz, I didn’t fully notice the `..` part. I just saw `cd`, and since I knew `cd` is used to change directories, I assumed the question was asking about moving to the child directory, which is what I thought cd did. I got so focused on the idea of "change directory" that I missed the `..` and mistakenly chose the wrong answer.
+
+The quiz question was: "What does cd .. mean?"
+
+And the options were:
+
+
